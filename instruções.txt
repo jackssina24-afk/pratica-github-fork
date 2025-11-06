@@ -1,0 +1,9 @@
+1) Apenas copie esse link no seu navegador:
+
+https://www.notion.so/21b6c661ceb1807da251df3fb703fbe5?v=21b6c661ceb181b38e3e000c931ec2ce&source=copy_link
+
+2) Copie as informações da sua linguagem de programação escolhida no link acima e monte a sua página com as informações que você pesquisou;
+
+3) Suba a sua alteração para o seu fork;
+
+4) Solicite uma pull request.
